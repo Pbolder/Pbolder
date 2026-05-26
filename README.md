@@ -1,12 +1,11 @@
 <h1>Hi, I'm Paul! <br/><a href="https://www.linkedin.com/in/paulbolder">Electrical Engineering</a> 
-  <a <br/> 
+ 
 
 
 
- Projects:</h2>
+ <h2>Projects:</h2>
 
-- <b> IoT Car Remote Start Controller</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [IoT Car Remote Start Controller](https://github.com/Pbolder/IoT-Car-Remote-Start-Controller)
 - <b>Automatic door opener</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) </b></i>
 - <b>Pickup Sport Team Finder Website Concept</b>
