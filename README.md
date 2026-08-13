@@ -6,6 +6,7 @@ Electrical Engineering student at the University of Wisconsin–Madison interest
 
 
  <h2>Projects:</h2>
+- [MSP430 Portable Power Supply](https://github.com/Pbolder/MSP430-Portable-Power-Supply)
 
 - [IoT Car Remote Start Controller](https://github.com/Pbolder/IoT-Car-Remote-Start-Controller)
 
